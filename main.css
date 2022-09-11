@@ -134,59 +134,56 @@ h6 {
   font-size: 18px;
 }
 .skill-text {
-  margin-top: 7px; 
-  
+  margin-top: 7px;
 }
 
 .skill {
-    width: 350px;
-    background: url(/img/icon1.jpg) no-repeat left top; 
-    padding-left: 107px;
+  width: 350px;
+  background: url(/wayup_lesson_one/img/icon1.jpg) no-repeat left top;
+  padding-left: 107px;
 }
 
-.skill-free{
-    width: 380px;
-    background: url(/img/icon2.jpg) no-repeat left top; 
+.skill-free {
+  width: 380px;
+  background: url(/wayup_lesson_one/img/icon2.jpg) no-repeat left top;
 }
-.skill-change{
-    background: url(/img/icon3.jpg) no-repeat left top; 
+.skill-change {
+  background: url(/wayup_lesson_one/img/icon3.jpg) no-repeat left top;
 }
 
-.mail{
-    background: #efecf4;
-    padding: 173px 0 190px
+.mail {
+  background: #efecf4;
+  padding: 173px 0 190px;
 }
 
 .input {
-    width: 474px;
-    border: 1px solid #bfb8d1;
-    font-size: 15px;
-    font-family: 'Open Sans', sans-serif;
-    border-radius: 100px;
-    height: 54px;
-    padding-left: 38px;
+  width: 474px;
+  border: 1px solid #bfb8d1;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 100px;
+  height: 54px;
+  padding-left: 38px;
 }
 
-.btn-form{
-    border: 0;
-    cursor: pointer;
-    display: inline;
-    margin-left: 11px;
-    font-size: 15px;
+.btn-form {
+  border: 0;
+  cursor: pointer;
+  display: inline;
+  margin-left: 11px;
+  font-size: 15px;
 }
 
 .form {
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
 .credits {
-    margin: 0;
-    color: #fff;
-;
+  margin: 0;
+  color: #fff;
 }
 
-.footer{
-    padding: 30px;
-    background:#201b2d 
-   
+.footer {
+  padding: 30px;
+  background: #201b2d;
 }
